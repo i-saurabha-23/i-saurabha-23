@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Saurabh Aralkar and I'm a Software Developer and Android Developer, from Amravati, Maharashtra</p>
+<p align="left">My name is <b>Saurabh Aralkar</b> and I'm a Software Developer and Android Developer, from Amravati, Maharashtra</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Working as SDE on Internship Projects<br>📚 I'm currently learning Flutter!<br>🎯 Goals: To build a strong foundation in Tech</p>
+<p align="left">✨ Working as SDE on Internship Projects<br>📚 I'm currently learning <b>Flutter</b>!<br>🎯 Goals: To build a strong foundation in Tech</p>
 
 ###
 
@@ -27,13 +27,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
