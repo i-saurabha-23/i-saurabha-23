@@ -19,7 +19,7 @@
 
 **Associate Consultant & Entrepreneur** at **Excelvate Systems** building cutting-edge **B2B SaaS platforms** and business automation solutions. Specialized in full-stack development with expertise in **Flutter**, **Next.js**, **Firebase**, and **cloud infrastructure**.
 
-- **Computer Science Engineer** | P R Pote Patil College of Engineering (7.54/10 CGPA)
+- **Computer Science Engineer** | P R Pote Patil College of Engineering (8.18/10 CGPA)
 - Building scalable products for **green hydrogen ecosystems** and **MSME automation**
 - Rapid prototyping & deployment | Deadline-driven execution
 - **President** - ACM Student Society & ISTE, P R Pote Patil
